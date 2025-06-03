@@ -1,2 +1,7 @@
 # Cleaning_data_Gradebook
-A Python project that processes student records from CSV files and separates them into section-wise files (A, B, and C) using NumPy and pandas.
+GradeBook is a Python-based data processing project designed to organize student records by class section. Given seven CSV files containing raw student data, the program extracts and separates the records into three distinct files for sections A, B, and C.
+
+# Technologies Used
+Python
+NumPy
+pandas
